@@ -1,0 +1,14 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# React build folder
+frontend/build/
+
+# Env files
+*.env
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
